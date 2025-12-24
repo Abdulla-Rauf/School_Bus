@@ -1,0 +1,9 @@
+// lib/screens/calendar/setup/index.dart
+export 'calendar_setup_screen.dart';
+export 'widgets/academic_year_form.dart';
+export 'widgets/date_range_section.dart';
+export 'widgets/academic_year_stats.dart';
+export 'widgets/working_days_section.dart';
+export 'widgets/stat_card.dart';
+export 'utils/date_utils.dart';
+export 'utils/calculation_utils.dart';
